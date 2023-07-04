@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value=" tag:SignInActivity tag:SignUpActivity" />
+    <option name="mostRecentlyUsed" value=" tag:SignInActivity tag:UserDao " />
     <option name="nonFavorites">
       <list>
+        <option value=" tag:SignInActivity tag:UserDao " />
         <option value="package:mine " />
         <option value=" tag:SignInActivity tag:SignUpActivity" />
         <option value="level:info " />
