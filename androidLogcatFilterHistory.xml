@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine tag:Permission " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:Permission " />
         <option value="package:mine tag:Notify tag:getfailed " />
         <option value="package:mine tag:Notify" />
         <option value="package:mine " />
