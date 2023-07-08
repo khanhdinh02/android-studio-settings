@@ -2,7 +2,11 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:Notify tag:getfailed " />
+        <option value="package:mine tag:Notify" />
         <option value="package:mine " />
+        <option value="package:mine level:error " />
+        <option value="level:error " />
         <option value=" tag:SignInActivity " />
         <option value=" tag:SignInActivity tag:UserDao tag:mainactivity " />
         <option value=" tag:SignInActivity tag:UserDao " />
